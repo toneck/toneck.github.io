@@ -1,0 +1,3 @@
+[submodule "simple-fisheye-radial-correction"]
+	path = simple-fisheye-radial-correction
+	url = https://github.com/toneck/simple-fisheye-radial-correction.git
